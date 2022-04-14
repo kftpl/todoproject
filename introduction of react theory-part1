@@ -1,0 +1,47 @@
+1).WHAT IS REACT:-
+*react is open source library for building user interfaces
+*not a framework
+*focus on UI
+*Rich ecosystem
+
+
+
+
+
+2).WHY LEARN REACT ??
+*created and maintained by facebook
+*more than 100K starts on Github
+*Huge community
+* in demand skillset
+
+
+WHY REACT is a good choice
+*component Based Architecture
+*reusable code
+*react is declarative(tell react what you want and react will build the actual UI)
+(react will handle efficiently updating and rendering of the component)
+(DOM updates are handles gracefully in react)
+
+
+ //More on why React?????
+
+ Seamiessly integrated react into any of your applications.
+ portion of your page or a complete pape or even an entire application itself.
+ react native for mobile applications.
+
+// <!-- PREREQISITES -->
+HTML,CSS and javascript fundamentals
+ES6
+
+javascript-`this` keyword,filter,map and reduce
+
+ES6-let& const ,arrow function ,template literals,defaultparameters,object literals,rest and 
+spread operators and destructuring asssignment
+
+CHANNEL CONTENT ---REACT
+
+.FUNDAMENTALS
+.HTTP
+.ROUTING
+.REDUX
+.UTILITIES
